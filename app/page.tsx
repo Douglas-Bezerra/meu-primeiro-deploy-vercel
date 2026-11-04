@@ -26,7 +26,7 @@ export default function Home() {
 
   return (
     <main style={{ padding: 40 }}>
-      <h1>Meu primeiro deploy automático na Vercel!</h1>
+      <h1>Versão de teste — Preview Deployment!</h1>
 
       <p>
         Digite seu nome e clique no botão para chamar a API:
